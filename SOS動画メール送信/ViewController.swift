@@ -10,8 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var beginBtn: UISwitch!
     @IBOutlet weak var syokisetteiBtn: UIButton!
     @IBOutlet weak var endBtn: UIButton!
+    @IBOutlet weak var rerekiBtn: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
