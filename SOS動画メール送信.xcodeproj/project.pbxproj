@@ -505,6 +505,7 @@
 				1212F0661DDAB346006FA717 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1212F0671DDAB346006FA717 /* Build configuration list for PBXNativeTarget "SOS動画メール送信Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +514,7 @@
 				1212F0691DDAB346006FA717 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1212F06A1DDAB346006FA717 /* Build configuration list for PBXNativeTarget "SOS動画メール送信UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +523,7 @@
 				1212F06C1DDAB346006FA717 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
